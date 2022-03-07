@@ -11,3 +11,4 @@ This project is a simple work day scheduler application that allows the user to 
 
 
 ## URL to GitHub Repository
+https://github.com/MalcDiggs/work-day-scheduler.git
