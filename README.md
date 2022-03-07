@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 
-Description of the project
-This project is a simple work day scheduler application that allows the user to save events for each hour of the day.
+## Description
+Simple calendar application used to save events for each hour of the day. 
 
 ## Screenshot
 
